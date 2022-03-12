@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&width=auto&section=header&text=Seongmin Lee%20&fontSize=60&fontAlign=70&fontAlignY=40&desc=Cloud backend Developer%20&descAlign=79" />
-<h1>Seongmin Lee<h1>
 <h2>Stacks</h2>
   <h3>Language</h3>
   <p>

@@ -23,6 +23,6 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=black">
   </p>
   
-  ## Notion
-  https://frill-cornflower-be8.notion.site/cbaf78982c5b47c8b4bd3cbc13f3d758
+  ## Study records
+  [Effective Java](https://www.notion.so/Team-study-record-744cc393a3384be58f9d21c1429f2726?pvs=4)
   

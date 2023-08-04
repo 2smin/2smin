@@ -4,7 +4,6 @@
 </div>
 <div align=center style='background-color: red'>
   <div style="background-color: red;"><h4>System developer with Java & little bit of devOps</h4></div>
-  <div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2smin&show_icons=true&theme=radical)</div>
 </div>
   <div align=center>
 <h2>Stacks</h2>

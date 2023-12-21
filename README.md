@@ -16,12 +16,15 @@
   
   <div align=center>
      <h3>Infra & Tool</h3>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-31A8FF?style=for-the-badge&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/KeyCloak-2496ED?style=for-the-badge&logo=netty&logoColor=white">
+     <br>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=black">
       <br>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
-     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS API GW-FF9900?style=for-the-badge&logo=amazonapigateway&logoColor=white">
     <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=RedHatOpenShift&logoColor=white">
   </div>
 
